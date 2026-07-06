@@ -2,9 +2,9 @@
 
 ## Database Credentials
 ```
-Database: u289524437_klgc
-User: u289524437_klgc
-Password: 07na4kZ8p12xU5xK
+Database: your_database_name
+User: your_database_user
+Password: your_database_password
 ```
 
 ## Getting Started Fast

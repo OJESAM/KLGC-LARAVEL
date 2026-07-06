@@ -2,10 +2,10 @@
 
 ## Database Configuration
 
-Your database credentials are:
-- **Database:** u289524437_klgc
-- **User:** u289524437_klgc
-- **Password:** 07na4kZ8p12xU5xK
+Use your own secure database credentials when configuring the environment. Do not commit real credentials to the repository.
+- **Database:** your_database_name
+- **User:** your_database_user
+- **Password:** your_database_password
 
 ## Local Setup
 

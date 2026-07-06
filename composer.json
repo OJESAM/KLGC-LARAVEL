@@ -1,0 +1,8 @@
+{
+    "name": "klgc/laravel",
+    "description": "KLGC Laravel application",
+    "type": "project",
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}

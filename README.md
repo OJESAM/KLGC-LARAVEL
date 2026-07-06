@@ -37,8 +37,8 @@ This folder includes a Bootstrap-based Laravel starter for a church website with
 ## Database Details
 
 Your database is configured as:
-- Database: `u289524437_klgc`
-- User: `u289524437_klgc`
+- Database: `your_database_name`
+- User: `your_database_user`
 - Tables will be created automatically on first `php artisan migrate`
 
 ## Routes

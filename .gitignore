@@ -1,0 +1,7 @@
+.env
+.env.local
+.env.*.local
+
+# Ignore SSH keys if they should not be committed
+ssh key
+ssh key.pub
